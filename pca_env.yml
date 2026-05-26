@@ -1,0 +1,11 @@
+name: pca-workshop
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - jupyterlab
+  - seaborn
