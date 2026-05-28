@@ -22,32 +22,20 @@ This workshop is designed to run most easily in **Google Colab**, which requires
 
 ## Setting up a virtual environment formally
 ___
-If Conda is available, you can use:
+You can use the uv package with the default pip installation from python to quickly construct an UV environment.
 
 ```bash
-conda env create -f pca_env.yml
-conda activate pca-workshop
+pip install uv
+uv sync
 ```
 
-If you Conda is not set up, use Python 3.12 + venv (recommended fallback on Windows):
-
+For Windows powershell:
 ```powershell
-# Check Python 3.12 is installed
-py -3.12 --version
-
-# Create virtual environment
-py -3.12 -m venv .venv
-
-# Activate (using PowerShell)
 .\.venv\Scripts\Activate.ps1
-
-# Install workshop dependencies
-python -m pip install --upgrade pip
-pip install -r requirements.txt
 ```
+
 
 Activate in CMD instead:
-
 ```cmd
 .venv\Scripts\activate.bat
 ```
