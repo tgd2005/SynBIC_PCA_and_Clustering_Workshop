@@ -8,7 +8,7 @@ For convenience, an access link for Google Colab is provided.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tgd2005/SynBIC_PCA_and_Clustering_Workshop/blob/main/00_introduction_to_PCA.ipynb)
 
 **Access notebook 01 here:**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tgd2005/SynBIC_PCA_and_Clustering_Workshop/blob/main/01_approaches_to_clustering.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tgd2005/SynBIC_PCA_and_Clustering_Workshop/blob/main/01_approaches_to_clustering.ipynb) --- NOTE: currently unfinished. Aiming to do so by Sunday.
 
 
 ## Quick start
