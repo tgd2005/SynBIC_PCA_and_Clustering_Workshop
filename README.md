@@ -3,7 +3,8 @@
 This repo is for a Bioinformatics Seminar organised by Imperial College London's Synthetic Biology Society (SynBIC). The contents here are designed to be friendly to life sciences students who wish to learn useful analytical methods in PCA, Clustering and Downstream Analysis techniques, but may be daunted by the underlying mathematics.
 
 **Access notebook 00 here:**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_NOTEBOOK_LINK_HERE](https://github.com/tgd2005/SynBIC_PCA_and_Clustering_Workshop/blob/main/00_introduction_to_PCA.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tgd2005/SynBIC_PCA_and_Clustering_Workshop/blob/main/00_introduction_to_PCA.ipynb)
+
 **Access notebook 01 here:**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_NOTEBOOK_LINK_HERE](https://github.com/tgd2005/SynBIC_PCA_and_Clustering_Workshop/blob/main/00_introduction_to_PCA.ipynb))
 
