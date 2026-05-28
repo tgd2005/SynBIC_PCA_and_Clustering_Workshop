@@ -6,7 +6,8 @@ This repo is for a Bioinformatics Seminar organised by Imperial College London's
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tgd2005/SynBIC_PCA_and_Clustering_Workshop/blob/main/00_introduction_to_PCA.ipynb)
 
 **Access notebook 01 here:**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_NOTEBOOK_LINK_HERE](https://github.com/tgd2005/SynBIC_PCA_and_Clustering_Workshop/blob/main/00_introduction_to_PCA.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tgd2005/SynBIC_PCA_and_Clustering_Workshop/blob/main/01_approaches_to_clustering.ipynb)
+
 
 ## Quick start
 
