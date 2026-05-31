@@ -20,11 +20,12 @@ This workshop is designed to run most easily in **Google Colab**, which requires
 3. Follow the notebooks alongside the live presentation from this seminar.
 
 
-## Setting up a virtual environment formally
-___
+# To run locally:
 You can use the uv package with the default pip installation from python to quickly construct an UV environment.
 
 ```bash
+git https://github.com/tgd2005/SynBIC_PCA_and_Clustering_Workshop
+cd  SynBIC_PCA_and_Clustering_Workshop
 pip install uv
 uv sync
 ```
